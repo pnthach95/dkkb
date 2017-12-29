@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "dkkb server",
   "scripts": {
-    "postinstall": "npm install",
     "start": "node server.js"
   },
   "dependencies": {
